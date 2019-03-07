@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPopularity", "NewsPopularity\NewsPopularity.csproj", "{F762F862-0656-48C1-A963-9FC8B27DEBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Debug|x64.ActiveCfg = Debug|x64
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Debug|x64.Build.0 = Debug|x64
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Release|x64.ActiveCfg = Release|x64
+		{F762F862-0656-48C1-A963-9FC8B27DEBA3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D03ACE-3219-4C7E-B544-8D0E4D15C024}
+	EndGlobalSection
+EndGlobal
