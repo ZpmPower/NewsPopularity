@@ -52,7 +52,7 @@ namespace NewsPopularity
             // set learning rate for the network
             double learnParameter = 0.0011125;
             var learningRatePerSample = new TrainingParameterScheduleDouble(learnParameter, 1);
-
+//
             //define learners for the NN model
 
             var learner = Learner.SGDLearner(ffnn_model.Parameters(), learningRatePerSample);
